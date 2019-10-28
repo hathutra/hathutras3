@@ -1,0 +1,2 @@
+- Nested list là dạng danh sách lồng ghép, nghĩa là một list xuất hiện với vai trò là phần tử của một list khác
+-trong 1 array không thể lưu trữ 2 kiểu dữ liệu khác nhau 
